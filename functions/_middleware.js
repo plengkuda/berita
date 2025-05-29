@@ -152,8 +152,8 @@ function generate3DCubeAmpHtml(siteName, canonicalUrl) {
 <html amp lang="id">
       <meta charset="utf-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-      <title>${siteName}: Sistem Informasi Kepegawaian STIKES Muhammadiyah Waled</title>
-      <meta name="description" content="Sistem Informasi Kepegawaian STIKES Muhammadiyah Waled - Platform digital terintegrasi untuk manajemen data pegawai secara efisien. Kelola data profil, riwayat pendidikan, pangkat & kinerja secara real-time."/>
+      <title>${siteName}: Peran dan Fungsi Mahkamah Agung dalam Sistem Hukum Indonesia</title>
+      <meta name="description" content="${siteName} Pelajari peran dan fungsi Mahkamah Agung Indonesia sebagai lembaga peradilan tertinggi. Ketahui tugas, wewenang, dan pentingnya MA dalam sistem hukum Indonesia untuk menjaga supremasi hukum dan keadilan."/>
       <meta name="robots" content="index, follow"/>
       <meta name="theme-color" content="#cbd000"/> 
       <link rel="canonical" href="${canonicalUrl}"/>
@@ -162,13 +162,13 @@ function generate3DCubeAmpHtml(siteName, canonicalUrl) {
       <meta property="og:site_name" content="${siteName}"/>
       <meta property="og:image:alt" content="${siteName}"/>
       <meta property="og:image" content="https://res.cloudinary.com/doq0uyg5g/image/upload/v1745409494/h2hmrj6zl8ocojfa3d78.webp"/>
-      <meta property="og:title" content="${siteName}: Sistem Informasi Kepegawaian STIKES Muhammadiyah Waled"/>
-      <meta property="og:description" content="Sistem Informasi Kepegawaian STIKES Muhammadiyah Waled - Platform digital terintegrasi untuk manajemen data pegawai secara efisien. Kelola data profil, riwayat pendidikan, pangkat & kinerja secara real-time."/>
+      <meta property="og:title" content="${siteName}: Peran dan Fungsi Mahkamah Agung dalam Sistem Hukum Indonesia"/>
+      <meta property="og:description" content="${siteName} Pelajari peran dan fungsi Mahkamah Agung Indonesia sebagai lembaga peradilan tertinggi. Ketahui tugas, wewenang, dan pentingnya MA dalam sistem hukum Indonesia untuk menjaga supremasi hukum dan keadilan."/>
       <meta property="og:locale" content="ID_id"/>
       <meta property="og:type" content="website"/>
       <meta name="twitter:card" content="summary"/>
-      <meta name="twitter:title" content="${siteName}: Sistem Informasi Kepegawaian STIKES Muhammadiyah Waled"/>
-      <meta name="twitter:description" content="Sistem Informasi Kepegawaian STIKES Muhammadiyah Waled - Platform digital terintegrasi untuk manajemen data pegawai secara efisien. Kelola data profil, riwayat pendidikan, pangkat & kinerja secara real-time."/>
+      <meta name="twitter:title" content="${siteName}: Peran dan Fungsi Mahkamah Agung dalam Sistem Hukum Indonesia"/>
+      <meta name="twitter:description" content="${siteName} Pelajari peran dan fungsi Mahkamah Agung Indonesia sebagai lembaga peradilan tertinggi. Ketahui tugas, wewenang, dan pentingnya MA dalam sistem hukum Indonesia untuk menjaga supremasi hukum dan keadilan."/>
       <meta name="twitter:image:src" content="https://res.cloudinary.com/doq0uyg5g/image/upload/v1745409494/h2hmrj6zl8ocojfa3d78.webp"/>
       <link rel="shortcut icon" type="image/x-webp" href="https://res.cloudinary.com/doq0uyg5g/image/upload/v1745409494/icon-slotgacor.webp" />
       <script type="application/ld+json">
@@ -271,7 +271,7 @@ function generate3DCubeAmpHtml(siteName, canonicalUrl) {
          </div>
          
          <div class="cta">
-            <h1 class="h1">${siteName}: Sistem Informasi Kepegawaian STIKES Muhammadiyah Waled</h1>
+            <h1 class="h1">${siteName}: Peran dan Fungsi Mahkamah Agung dalam Sistem Hukum Indonesia</h1>
             <a href="${loginUrls[0]}" target="_blank" rel="nofollow noreferrer noopener">LOGIN</a>
             <a href="${loginUrls[0]}" target="_blank" rel="nofollow noreferrer noopener">DAFTAR</a>
             <a href="${loginUrls[0]}" target="_blank" rel="nofollow noreferrer noopener">LIVE CHAT</a>
